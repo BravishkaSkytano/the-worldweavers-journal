@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4b7ce353-ab61-425e-8743-d8884c54d40c/deploy-status)](https://app.netlify.com/projects/theworldweaversjournal/deploys)
+
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
