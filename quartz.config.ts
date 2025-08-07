@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "theworldweaversjournal.netlify.app",
-    ignorePatterns: ["private", "_settings", ".obsidian"],
+    ignorePatterns: ["private", "_*", ".obsidian*"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
